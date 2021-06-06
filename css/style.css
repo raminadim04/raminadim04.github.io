@@ -17,6 +17,9 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 }
+.music{
+	display: none;
+}
 #container{
 	background:#1db954;
 	width:424px;
