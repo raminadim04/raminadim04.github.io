@@ -17,6 +17,9 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 }
+.a{
+	color:black;
+}
 .music{
 	display: none;
 }
